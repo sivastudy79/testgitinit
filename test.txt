@@ -1,2 +1,0 @@
-testing Git inti cmd
-date 15Dec24
